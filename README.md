@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ayazmirza54" target="blank"><img src="https://img.shields.io/twitter/follow/ayazmirza54?logo=twitter&style=for-the-badge" alt="ayazmirza54" /></a> </p>
 
-- 🔭 I’m currently working on **Text-to-Speechifier**
-
 - 🌱 I’m currently learning **ReactJS , Unix**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayazmirza54/](https://github.com/ayazmirza54/)
