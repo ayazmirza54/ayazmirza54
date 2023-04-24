@@ -4,6 +4,8 @@
 
 🚀 I'm currently working on https://www.ai-utilities.in
 
+🖇️ All my links https://linktr.ee/ayazmirza54
+
 👨‍💻 All of my projects are available at https://github.com/ayazmirza54/
 
 📫 How to reach me ayazmirza54@gmail.com
