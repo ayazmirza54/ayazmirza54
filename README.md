@@ -2,9 +2,7 @@
 
 🌱 I’m currently learning ReactJS , Python
 
-🚀 I'm currently working on https://www.ai-utilities.in
-
-🖇️ All my links https://linktr.ee/ayazmirza54
+🚀 I'm currently working on https://www.aigadgets.show
 
 👨‍💻 All of my projects are available at https://github.com/ayazmirza54/
 
