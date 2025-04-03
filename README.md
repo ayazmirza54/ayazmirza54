@@ -1,6 +1,6 @@
 # 💫 About Me :
 
-🌱 I’m currently learning ReactJS , Python
+🌱 I’m currently learning MERN stack for full stack development and Python, shell scripting for automating boring stuff.
 
 🚀 I'm currently working on https://www.aigadgets.show
 
