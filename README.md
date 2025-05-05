@@ -2,6 +2,10 @@
 
 🌱 I’m currently learning MERN stack for full stack development and Python, shell scripting for automating boring stuff.
 
+🖇️ Here's my personal website, https://www.ayazmirza54.in
+
+📍Check out all my links on https://linkstoayaz.in
+
 🚀 I'm currently working on https://www.aigadgets.show
 
 👨‍💻 All of my projects are available at https://github.com/ayazmirza54/
