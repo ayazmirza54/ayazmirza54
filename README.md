@@ -42,20 +42,59 @@ curl -sL ayazmirza54.in/dev
 
 ---
 
-## 🚀 Things I've Built
+## 🏗️ Things I've Built
+
+### 🗄️ Data & Database Engineering
+<sub>Enterprise-grade data tooling, visual ETL engines and natural-language database sandboxes.</sub>
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🖥️ **[Portfolio OS](https://www.ayazmirza54.in)** | My portfolio as a desktop-OS simulation — windows, dock and all | React · Tailwind |
-| 🔐 **DevVault** | Local-first knowledge vault for developers | React · Tauri |
-| 🎨 **DrawAI** | Excalidraw-style canvas that generates diagrams from prompts | React · Gemini |
-| ✍️ **DraftBuddy** | Turns blunt text into polished corporate language, streamed live | React 19 · Gemini SSE |
-| 👏 **Clap Automator** | Clap at your mic → windows snap into your work layout | Electron · Node |
-| ✋ **Air Draw** | Draw in the air with hand tracking, One-Euro filter smoothing | MediaPipe · JS |
-| 🗄️ **Harlequin SQL (web)** | Browser SQL IDE clone with an in-memory engine, Catppuccin theme | JS · SQL |
-| 🧠 **[AIGadgets.show](https://www.aigadgets.show)** | Discovery platform for AI tools and products | Web |
+| ⭐ **[Openitio](https://github.com/ayazmirza54/openitio)** | **Flagship.** Open-source visual ETL environment inspired by the graph/component architecture of Ab Initio GDE | `ETL` `Graph Engine` `Data Pipelines` |
+| 💬 **[chat-with-db](https://github.com/ayazmirza54/chat-with-db)** | Natural-language-to-SQL: query schemas, inspect execution plans, generate insights safely | `Python` `SQL` `LLM` |
+| 🐘 **[db-shell-bot](https://github.com/ayazmirza54/db-shell-bot)** | In-browser PostgreSQL sandbox with an AI shell assistant for schema prototyping & query tuning | `PostgreSQL` `WASM` `AI` |
 
-> 📂 More on my **[GitHub](https://github.com/ayazmirza54?tab=repositories)** — cheat sheets, CLI tools, PPT generators, and plenty of experiments.
+### 📚 Interactive Engineering Manuals
+<sub>Fast, zero-bloat, terminal-themed references built for daily engineering lookups.</sub>
+
+| Manual | Live | Coverage |
+|---|---|---|
+| 🧮 **[sql.manual](https://github.com/ayazmirza54/sql.manual)** | [sqlmanual.vercel.app](https://sqlmanual.vercel.app) | SQL & PL/SQL — window functions, CTEs, indexing, query tuning |
+| 🐧 **[linux.manual](https://github.com/ayazmirza54/linux.manual)** | [linuxmanual.vercel.app](https://linuxmanual.vercel.app) | Unix/Linux CLI — flags, piping patterns, admin recipes |
+| ☁️ **[aws.manual](https://github.com/ayazmirza54/aws.manual)** | [awsmanual.vercel.app](https://awsmanual.vercel.app) | AWS CLI & architecture — IAM, EC2, S3, VPC, serverless |
+| 🔷 **[abinitio-ref](https://github.com/ayazmirza54/abinitio-ref)** | [repo](https://github.com/ayazmirza54/abinitio-ref) | Ab Initio — components, DML, PDL, EME, parallelism |
+
+### ⌨️ Cloud, CLI & Terminal Tooling
+<sub>Keyboard-first utilities built for speed, low memory and zero browser friction.</sub>
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🖥️ **[ec2-manager-tui](https://github.com/ayazmirza54/ec2-manager-tui)** | Monitor, start, stop and SSH into EC2 instances without the AWS console | `Python` `Textual` `Boto3` |
+| 🤖 **[unixbot / ShellMate](https://github.com/ayazmirza54/unixbot)** | CLI copilot turning plain-English intents into safe shell pipelines and cron jobs | `Python` `Shell` |
+| 📈 **[system-metrics-monitoring-script](https://github.com/ayazmirza54/system-metrics-monitoring-script)** | Zero-dependency live CPU, memory, disk I/O & network graphs in the terminal | `Bash` |
+| 💳 **[ayaz.sh](https://github.com/ayazmirza54/ayaz.sh)** | Terminal entry point, bootstrap scripts and interactive CLI dev card | `Shell` |
+
+### 🔌 Desktop, Hardware & OS Utilities
+<sub>Low-level device bridges, Bluetooth telemetry and cross-platform desktop workflows.</sub>
+
+| Project | What it does | Stack |
+|---|---|---|
+| 📡 **[ble-tracker](https://github.com/ayazmirza54/ble-tracker)** | BLE scanner, RSSI proximity analyzer and local device manager | `TypeScript` `BLE` |
+| ⬇️ **[downlnk](https://github.com/ayazmirza54/downlnk)** | High-speed media & stream extractor — as a web app and a standalone TUI | `TypeScript` `TUI` `Web` |
+| 🎙️ **FlowVoice Dictation** | Low-latency, hotkey-triggered voice dictation for drafting and hands-free coding | `Desktop` `Audio` |
+| 🎮 **EvoFoxElite GamepadMouse** | Maps analog sticks, triggers and deadzones to OS-level mouse & keyboard events | `Input Mapping` |
+
+### 🎨 Creative Web & Full-Stack Builds
+<sub>High-craft interfaces, design registries and interactive browser environments.</sub>
+
+| Project | What it does | Stack |
+|---|---|---|
+| ⬛ **[ayazmirza-monochrome](https://github.com/ayazmirza54/ayazmirza-monochrome)** | Monochrome portfolio + custom `shadcn` component registry with CRT aesthetics | `Next.js` `TypeScript` `Tailwind` |
+| 🪟 **[ayaz-os](https://github.com/ayazmirza54/ayaz-os)** | Browser desktop OS with window manager, filesystem and terminal emulator | `JavaScript` |
+| ✏️ **[intellisketch-v2](https://github.com/ayazmirza54/intellisketch-v2)** | Infinite whiteboard & architecture canvas with AI-assisted flow generation | `JavaScript` `Canvas` |
+| 🛒 **[buysense](https://github.com/ayazmirza54/buysense)** | Product research and purchase-decision engine | `TypeScript` |
+| 🫰 **[thanos-snap-teams-edition](https://github.com/ayazmirza54/thanos-snap-teams-edition)** | Browser extension bringing the particle-disintegration snap to Microsoft Teams | `JavaScript` |
+
+> 📂 Everything else lives on my **[GitHub](https://github.com/ayazmirza54?tab=repositories)** · run `npx ayazmirza54` for the terminal tour.
 
 ---
 
