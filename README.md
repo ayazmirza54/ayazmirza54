@@ -157,21 +157,15 @@ curl -sL ayazmirza54.in/dev
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats :
 
-<!-- These cards are built daily by .github/workflows/profile-cards.yml
-     and committed to /profile — no dependency on public Vercel servers. -->
+![](https://github-readme-stats.vercel.app/api?username=ayazmirza54&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayazmirza54&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayazmirza54&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+### ✍️ Random Dev Quote
 
-<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=ayazmirza54&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img width="100%" src="./profile/snake.svg" alt="Snake eating my contribution graph" />
-
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 
