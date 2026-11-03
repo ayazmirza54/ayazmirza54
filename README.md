@@ -40,6 +40,14 @@ whoami:
 curl -sL ayazmirza54.in/dev
 ```
 
+<div align="center">
+
+<img width="100%" src="./assets/etl-flow.svg" alt="Animated ASCII art of an ETL pipeline: three sources flow through clean, dedupe, join and enrich steps into a warehouse" />
+
+<sub><i>What my day job looks like, in ASCII · art from <a href="https://www.ascii-magic.com/ascii">ASCII Magic</a></i></sub>
+
+</div>
+
 ---
 
 ## 🏗️ Things I've Built
@@ -151,18 +159,17 @@ curl -sL ayazmirza54.in/dev
 
 ## 📊 GitHub Stats
 
-<!-- Tip: the public github-readme-stats instance is often rate-limited.
-     For reliable cards, deploy your own copy to Vercel (one click from
-     github.com/anuraghazra/github-readme-stats) and swap the domain below. -->
+<!-- These cards are built daily by .github/workflows/profile-cards.yml
+     and committed to /profile — no dependency on public Vercel servers. -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayazmirza54&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazmirza54&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=ayazmirza54&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayazmirza54&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img width="100%" src="./profile/snake.svg" alt="Snake eating my contribution graph" />
 
 </div>
 
