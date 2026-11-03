@@ -39,15 +39,6 @@ whoami:
 ```bash
 curl -sL ayazmirza54.in/dev
 ```
-
-<div align="center">
-
-<img width="100%" src="./assets/etl-flow.svg" alt="Animated ASCII art of an ETL pipeline: three sources flow through clean, dedupe, join and enrich steps into a warehouse" />
-
-<sub><i>What my day job looks like, in ASCII · art from <a href="https://www.ascii-magic.com/ascii">ASCII Magic</a></i></sub>
-
-</div>
-
 ---
 
 ## 🏗️ Things I've Built
